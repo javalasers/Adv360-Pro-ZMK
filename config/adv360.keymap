@@ -55,9 +55,9 @@
 
         layer_ctrlswap {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                         &trans  &trans &trans &trans &trans &trans &trans
+ &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                                 &trans  &trans &trans &trans &trans &trans &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &trans                                                   &trans  &trans  &trans  &trans   &trans   &trans   &trans
- &trans  &trans  &trans  &trans  &trans  &trans             &LCMD  &LCTRL  &trans   &trans   &trans  &trans  &RCTRL   &LGUI  &trans  &trans  &trans   &trans   &trans   &trans
+ &trans  &trans  &trans  &trans  &trans  &trans             &kp LCMD  &kp LCTRL  &trans     &trans   &trans          &trans &kp RCTRL  &kp LGUI   &trans  &trans  &trans  &trans   &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &trans   &trans  &trans   &trans   &trans  &trans   &trans   &trans  &trans  &trans  &trans   &trans   &trans   &trans
  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans   &trans   &trans   &trans
             >;
